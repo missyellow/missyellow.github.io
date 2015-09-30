@@ -156,7 +156,7 @@ container {
     width: 80%; }
 
   /* Popover */
-  /*.popover.open {
+  .popover.open {
     display: block;
   }
   .popover {
@@ -222,4 +222,4 @@ container {
   .popover-link:hover,
   .popover-item:first-child .popover-link:hover:after {
     border-bottom-color: #33C3F0; }
-}*/
+}
