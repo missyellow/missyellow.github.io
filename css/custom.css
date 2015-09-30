@@ -110,7 +110,7 @@
 }
 
 /* Larger than tablet */
-@media (min-width: 100px) {
+/*@media (min-width: 100px) {
   /* Navbar */
   .navbar + .docs-section {
     border-top-width: 0; }
@@ -156,7 +156,7 @@
     width: 80%; }
 
   /* Popover */
-  .popover.open {
+  /*.popover.open {
     display: block;
   }
   .popover {
