@@ -145,7 +145,7 @@ h7 {
   margin-top: 0;
   margin-bottom: 2rem;
   font-weight: 300; }
-h7 { font-size: 3.0rem; line-height: 1.3;  letter-spacing: -.1rem;}
+h7 { font-size: 3.0rem; line-height: 1.3;  letter-spacing: -.1rem; }
 
 /* Larger than phablet */
 @media (min-width: 550px) {
@@ -155,6 +155,7 @@ h7 { font-size: 3.0rem; line-height: 1.3;  letter-spacing: -.1rem;}
   h4 { font-size: 3.0rem; }
   h5 { font-size: 2.4rem; }
   h6 { font-size: 1.5rem; }
+  h7 { font-size: 3.6rem; }
 }
 
 p {
