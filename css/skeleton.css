@@ -125,16 +125,7 @@ body {
   line-height: 1.6;
   font-weight: 100;
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, 'Source Sans Pro', sans-serif;
-  color: #222; 
-  
-  speak: none;
-font-style: normal;
-font-weight: normal;
-font-variant: normal;
-text-transform: none;
-line-height: 1;
--webkit-font-smoothing: antialiased;
-}
+  color: #222; }
 
 
 /* Typography
